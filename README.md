@@ -10,16 +10,6 @@ Question 3: What impact do the Olympics have on environmental sustainability of 
 
 
 
-Team: 
-
-Revhat Umut Akdoğan: 120203012
-
-Arda Şahin: 121207070
-
-Harun Erzen: 122203096
-
-
-
 Dataset links: https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country
 
 https://www.kaggle.com/datasets/jonscheaffer/olympic-host-cities
@@ -29,3 +19,15 @@ https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024
 https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history
 
 Github Website Link:  https://revhatakdogan.github.io/ie421_project_summer-olympics-analysis/
+
+
+
+
+Team: 
+
+Revhat Umut Akdoğan: 120203012
+
+Arda Şahin: 121207070
+
+Harun Erzen: 122203096
+
