@@ -12,7 +12,7 @@ Question 3: What impact do the Olympics have on environmental sustainability of 
 
 Team: 
 
-Revhat Umut Akdoğan – 120203012
+Revhat Umut Akdoğan: 120203012
 
 Arda Şahin: 121207070
 
