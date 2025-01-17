@@ -10,6 +10,7 @@ Developed countries tend to outperform developing and underdeveloped nations in 
 
 So, did the level of development in countries help them win medals at the Paris 2024 Summer Olympics? We will investigate this through HDI, Gini Coefficient, and GDP.
 
+Github Website Link:  https://revhatakdogan.github.io/ie421_project_summer-olympics-analysis/
 
 Team: 
 
